@@ -1,7 +1,7 @@
   ## Practical 5
   
   ### Task
-  Task is to use brute force to break a given hashed password and test it with the given hashed words.
+  Task is to write a program whcih uses brute force to break given hashed passwords.
   
   ##### Results
   

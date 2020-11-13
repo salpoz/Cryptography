@@ -37,6 +37,7 @@ public class MainFrame extends javax.swing.JFrame {
         info = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("Code Verification");
 
         jLabel1.setText("Enter ISBN no:");
 
